@@ -1,0 +1,5 @@
+nama: Mutiah anwar
+nim: 240907500007
+kelas: A
+
+# DESKRIPSI LEMBAR KERJA SIMPLE INTEREST
